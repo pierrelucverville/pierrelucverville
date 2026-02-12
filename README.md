@@ -1,16 +1,19 @@
-## Hi there 👋
+# Pierre-Luc Verville
 
-<!--
-**pierrelucverville/pierrelucverville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Compositeur et artiste conceptuel. 
+Développeur de générateurs automatiques et chercheur en créativité artificielle.
 
-Here are some ideas to get you started:
+Je développe des automates génératifs :
+- Amiral
+- Patriarche
+- Automatexte
+- Ordinatexte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mes recherches portent sur :
+- la médiatisation
+- la configuration de l’œuvre
+- la créativité artificielle
+- les systèmes génératifs.
+
+🌐 Site : https://www.pierrelucverville.com
+📍 Canada
