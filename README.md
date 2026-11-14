@@ -1,20 +1,12 @@
 # Pierre-Luc Verville
 
 Compositeur et artiste conceptuel.  
-Développeur de générateurs automatiques et chercheur en créativité artificielle.
-
-Je développe des automates génératifs :
-
-- Amiral  
-- Patriarche  
-- Automatexte  
-- Ordinatexte  
 
 ## Recherche
 
 Mes recherches portent sur :
 
-- la médiatisation  
+- la médiatisation de l'art 
 - la configuration de l’œuvre  
 - la créativité artificielle  
 - les systèmes génératifs  
